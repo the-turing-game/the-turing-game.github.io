@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Site Name
+title: The Turing Game
 ---
-# Github.io template. Index
+# The Turing Game
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his book 
-  "Cybernetics, or Control and Communication in the Animal and the Machine".
+  The underlying ideas of the broad class of games that the 'parlor game'
+  described by Mr. Turing as well as the same game with a modification 
+  that he proposed belong to. 
 </pre>
 [Page 1](./pages/page_1)

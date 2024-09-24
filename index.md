@@ -7,4 +7,4 @@ title: The Turing Game
   The underlying ideas of the broad class of games that the 'parlor game' described by
   Mr. Turing as well as the same game with a modification that he proposed belong to. 
 </pre>
-[Page 1](./pages/page_1)
+[The definitions page](./pages/page_1)
